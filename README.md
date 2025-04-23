@@ -4,5 +4,5 @@
    Contributors
 
    1) Yajat Pahuja
-   2) 
-   3) Naman Khosla
+   2) Naman Khosla
+
